@@ -1,0 +1,51 @@
+[20:29:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:29:33] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:29:34] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:29:34] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:29:34] [Server thread/INFO]: Loading properties
+[20:29:34] [Server thread/INFO]: This server is running Paper version git-Paper-566 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[20:29:34] [Server thread/INFO]: Debug logging is disabled
+[20:29:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:29:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:29:34] [Server thread/INFO]: Default game type: SURVIVAL
+[20:29:34] [Server thread/INFO]: Generating keypair
+[20:29:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:29:35] [Server thread/INFO]: Using default channel type
+[20:29:35] [Server thread/INFO]: [vertcoin] Loading vertcoin v1.0
+[20:29:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:29:35] [Server thread/INFO]: Preparing level "world"
+[20:29:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:29:36] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[20:29:36] [Server thread/INFO]: Preparing spawn area: 0%
+[20:29:36] [Server thread/INFO]: Time elapsed: 181 ms
+[20:29:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:29:36] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[20:29:36] [Server thread/INFO]: Time elapsed: 108 ms
+[20:29:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:29:36] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[20:29:36] [Server thread/INFO]: Time elapsed: 42 ms
+[20:29:36] [Server thread/INFO]: [vertcoin] Enabling vertcoin v1.0
+[20:29:36] [Server thread/INFO]: Running delayed init tasks
+[20:29:36] [Server thread/INFO]: Done (1.528s)! For help, type "help"
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_281
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[20:29:36] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[20:29:36] [Server thread/INFO]: Timings Reset
+[20:29:39] [User Authenticator #1/INFO]: UUID of player Z3ntr0 is 9b07f7c6-6352-4899-967f-64cc2a952125
+[20:29:40] [Server thread/INFO]: Z3ntr0 joined the game
+[20:29:40] [Server thread/INFO]: Z3ntr0[/127.0.0.1:54427] logged in with entity id 147 at ([world]26.737130689944532, 79.0, -13.190054578800662)
+[20:29:45] [Server thread/INFO]: Z3ntr0 issued server command: /givevtc
+[20:57:21] [Server thread/INFO]: Z3ntr0 lost connection: Disconnected
+[20:57:21] [Server thread/INFO]: Z3ntr0 left the game
